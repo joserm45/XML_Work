@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+  <name> Awesome Game </name>
+  <window>
+    <fullscreen value = "false"/>
+    <borderless value = "false"/>
+    <resizable value = "true"/>
+    <fullscreen_desktop value = "false"/>
+    <resolution scale = "1" width = "1024" height = "768"/>
+
+  </window>
+  <textures>
+    
+  </textures>
+  <audio>
+    
+  </audio>
+  <renderer>
+    <vsync value="false"/>
+  </renderer>
+  <input>
+    
+  </input>
+  <scene>
+
+  </scene>
+</config>
